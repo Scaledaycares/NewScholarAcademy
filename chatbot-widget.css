@@ -403,9 +403,11 @@ a:hover {
    #chat-widget{
     position:fixed;
     bottom:50px;
+    right:15px;
   }
    #calendly-widget-container{
     transform:scale(0.9);
+    right:0px;
   }
 }
 
